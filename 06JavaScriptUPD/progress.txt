@@ -1,0 +1,42 @@
+16
+10
+8 css1
+8 css2
+===================== 42
+
+20 js
+x
+
+8 css 3
+8 css4
+12
+12
+10
+6 front end conclusao
+=======================66
+
+8  jre
+8  javaoo
+12 java poly
+12 java exc
+12 java lang
+12 java util
+12 java io
+20 java collections
+12 java moderno
+====================== 108
+
+1 leanstartup
+8 emprendederismo
+6 ciclo
+6 pitch
+8 bmod1
+8 bmod2
+====================37
+
+42
+66
+108
+37
+===
+253
